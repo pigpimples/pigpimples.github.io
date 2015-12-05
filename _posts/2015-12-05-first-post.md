@@ -4,7 +4,7 @@ published: true
 
 ## A New Post
 How much do you dislike Arvind Kejriwal?
-![Arvind Kejriwal photo](https://upload.wikimedia.org/wikipedia/commons/0/06/ArvindKejriwal2.jpg)
+![Arvind Kejriwal photo](https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ArvindKejriwal2.jpg/480px-ArvindKejriwal2.jpg&imgrefurl=https://commons.wikimedia.org/wiki/File:ArvindKejriwal2.jpg&h=480&w=480&tbnid=jg_2tYVgH3HjqM:&docid=me6OVOCiu3xNZM&ei=ECpjVr7kOOPAjwS3koXQCA&tbm=isch&ved=0ahUKEwi-rIOFqsXJAhVj4IMKHTdJAYoQMwgcKAAwAA)
 In the biblical story, when the Israelis send the puny David to fight the giant Philistine Goliath with stones and a sling, the latter thinks it is a joke. David pulls out a stone, puts it into his sling and shoots at Goliath who falls to the ground. When the rest of the Philistines see this they run away. David becomes a hero for the people of Israel.
 
 In 2012-13, a mass based struggle against corruption propelled Arvind Kejriwal to stratospheric heights of public imagination and discourse. He achieved political success within 13 months of forming his party. His party got a 30% vote share in the 2013 Delhi elections and he became Chief Minister, defeating the three time sitting CM. It was something of a shocker for the BJP and the ruling Congress.
