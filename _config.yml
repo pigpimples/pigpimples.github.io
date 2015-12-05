@@ -6,10 +6,11 @@
 name: PigPimples
 
 # Short bio or description (displayed in the header)
-description: Software and everything else
+description: Software and everything else in-between
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/pigpimples/pigpimples.github.io/master/images/404.jpg
+# avatar: https://raw.githubusercontent.com/pigpimples/pigpimples.github.io/master/images/404.jpg
+avatar: https://avatars0.githubusercontent.com/u/16145144?v=3&s=460
 
 #
 # Flags below are optional
