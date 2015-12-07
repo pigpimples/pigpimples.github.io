@@ -1,5 +1,5 @@
 *Food like a loving touch or a glimpse of the divine has the power to comfort*
-![Noodles photo](https://thedumplingsisters.files.wordpress.com/2014/11/tds-noodles-2.jpg)
+![Noodles photo](http://2.bp.blogspot.com/_23hrrIu-3P8/TE05JsLgUjI/AAAAAAAABb0/TNra9Ez9d2M/s400/noodles+con+bacon.JPG)
 Food is one of the most primitive forms of comfort. It provides instant relief from physical hunger. However our relationship with food is a far more complex as it has the power to change our emotions and alter our moods. As children, we have all indulged in eating to satisfy our emotional hunger rather than pure physical needs. We live in world where people bond over food and most social interactions are centered around a meal. Comfort foods (often high carb foods) provide a nostalgic or sentimental feeling and remind one of home, family and friends. They are eaten for psychological reasons rather than nutritional.
 
 Comfort eating has a complete life of its own. People, when under emotional stress, often reach for a packet of chips or a soft drink. Overtime, it becomes a habit as the brain learns to look for the same stimulus whenever under stress. The problem is not in comfort eating but in eating junk for comfort and overeating it. Comfort foods are misused as people regularly turn to them to cope with stress, anxiety, fear, depression and negative emotions.
@@ -16,7 +16,7 @@ Here is a list of top ten Comfort foods that Indian’s indulge in to get rid of
 
 5. Pakoras, samosas and chai (tea): Nothing to match these on a gloomy, cloudy rainy day. The satisfaction lasts for ever.
 
-6. Gulab jamun (shown in pic) and jalebi's: A high calorie indulgence, served piping hot and very often bought from the neighborhood sweet shop rather than made at home. Pure delight.
+6. Gulab jamun and jalebi's: A high calorie indulgence, served piping hot and very often bought from the neighborhood sweet shop rather than made at home. Pure delight.
 
 7. Aloo bhujiya and Banana chips: This one is for the person who loves salty food. You will not stop until you finish the whole pack and still want more.
 
