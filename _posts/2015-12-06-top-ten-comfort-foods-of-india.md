@@ -1,4 +1,4 @@
-## Food like a loving touch or a glimpse of the divine has the power to comfort
+*Food like a loving touch or a glimpse of the divine has the power to comfort*
 ![Noodles photo](https://thedumplingsisters.files.wordpress.com/2014/11/tds-noodles-2.jpg)
 Food is one of the most primitive forms of comfort. It provides instant relief from physical hunger. However our relationship with food is a far more complex as it has the power to change our emotions and alter our moods. As children, we have all indulged in eating to satisfy our emotional hunger rather than pure physical needs. We live in world where people bond over food and most social interactions are centered around a meal. Comfort foods (often high carb foods) provide a nostalgic or sentimental feeling and remind one of home, family and friends. They are eaten for psychological reasons rather than nutritional.
 
