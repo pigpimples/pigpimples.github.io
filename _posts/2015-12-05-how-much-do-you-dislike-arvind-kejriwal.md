@@ -1,4 +1,6 @@
 ---
+layout: post
+title: "How much do you dislike Arvind Kejriwal?"
 published: true
 ---
 

@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Top Ten Comfort Foods of India"
+published: true
+---
+
 *Food like a loving touch or a glimpse of the divine has the power to comfort*
 ![Noodles photo](http://2.bp.blogspot.com/_23hrrIu-3P8/TE05JsLgUjI/AAAAAAAABb0/TNra9Ez9d2M/s400/noodles+con+bacon.JPG)
 Food is one of the most primitive forms of comfort. It provides instant relief from physical hunger. However our relationship with food is a far more complex as it has the power to change our emotions and alter our moods. As children, we have all indulged in eating to satisfy our emotional hunger rather than pure physical needs. We live in world where people bond over food and most social interactions are centered around a meal. Comfort foods (often high carb foods) provide a nostalgic or sentimental feeling and remind one of home, family and friends. They are eaten for psychological reasons rather than nutritional.
@@ -8,7 +14,7 @@ Here is a list of top ten Comfort foods that Indian’s indulge in to get rid of
 
 1. The two minute Maggi noodles (shown in pic): Any time snack it is right on top of the list of "happy foods". Very nostalgic, reminds you of your time in the hostel when hunger struck at twelve in the night with nowhere to go.
 
-2. Stuffed Paranthas (shown in pic): Paneer, potato, onion radish or cauliflower paranthas with pickle, curd and butter on top ....always remind one of the warmth of mom’s kitchen.
+2. Stuffed Paranthas: Paneer, potato, onion radish or cauliflower paranthas with pickle, curd and butter on top ....always remind one of the warmth of mom’s kitchen.
 
 3. Khichdi/Rajma Chawal: It brings back memories of lying in bed in front of the TV and indulging in this hot, simple and healthy preparation.
 
@@ -24,5 +30,5 @@ Here is a list of top ten Comfort foods that Indian’s indulge in to get rid of
 
 9. Momos: Steaming hot momos - chicken, or vegetarian are great mood lifters.
 
-10. Pav bhaji: Finely-chopped vegetables, cooked in heaps of butter and masala is the greatest gift to mankind.
+10. Pav bhaji: Finely chopped vegetables, cooked in heaps of butter and masala is the greatest gift to mankind.
 Nothing like Comfort foods to give your mood a lift but don’t overindulge.
