@@ -2,8 +2,8 @@
 layout: post
 title: "How much do you dislike Arvind Kejriwal?"
 published: true
-categories: [India]
-tags: [Politics, Kejriwal]
+categories: [Lifestyle]
+tags: [India, Politics, Kejriwal]
 ---
 
 ![Arvind Kejriwal photo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ArvindKejriwal2.jpg/480px-ArvindKejriwal2.jpg)
