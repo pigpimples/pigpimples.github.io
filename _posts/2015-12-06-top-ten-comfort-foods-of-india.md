@@ -2,10 +2,8 @@
 layout: post
 title: "Top Ten Comfort Foods of India"
 published: true
-categories:
-	- India
-tags:
-	- Food
+categories: [India]
+tags: [Food]
 ---
 
 *Food like a loving touch or a glimpse of the divine has the power to comfort*
