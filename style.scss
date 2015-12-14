@@ -1,6 +1,10 @@
 ---
 ---
 
+ignore {
+  font-size: 100% 
+}
+
 //
 // IMPORTS
 //
@@ -290,7 +294,7 @@ footer {
 
 // added for pigpimples
 img {
-  float: left;
+  float: right;
   padding-right: 10px;
 }
 
