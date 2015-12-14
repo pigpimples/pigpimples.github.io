@@ -5,5 +5,6 @@ published: false
 categories: [Tech]
 tags: [Future Cars]
 ---
+![Apple Car](http://learnbonds.com/wp-content/uploads/apple-car.png)
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/automobileitalia/19667877988" title="Ecco svelato come si guida la Google Car"><img src="https://farm1.staticflickr.com/375/19667877988_dc8791f461_z.jpg" width="640" height="400" alt="Ecco svelato come si guida la Google Car"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![Goog Car](http://techno-car.fr/wp-content/uploads/2014/12/google-car-autonome-beta-622x415.jpg)
