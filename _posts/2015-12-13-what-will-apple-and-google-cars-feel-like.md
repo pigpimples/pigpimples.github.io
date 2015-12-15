@@ -11,4 +11,4 @@ tags: [Future Cars]
 
 **Google Car**. You do not own a self driving Google car. Instead, you borrow a Google car which is idling close to you. It arrives at your door and it has your name flashing on the outside. You either use your phone or you stare into a camera to open the door. Once inside, it reminds you to confirm your destination and shows you the route. Next, it shows you the approximate cost. After that, it insists on playing a radio station that has been automatically selected for you. You just want to get moving so you say yes to everything it demands. On the way, the car shows you a few products that you might be interested in buying. You try to focus your mind on something else. You arrive at your destination slightly perturbed, but you are unable to articulate exactly why.
 
-I would like to know what you think these cars will feel like? Comments below.
+Let us know what you think these cars will feel like? Comments below.
