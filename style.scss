@@ -1,6 +1,10 @@
 ---
 ---
 
+ignore {
+  font-size: 100% 
+}
+
 //
 // IMPORTS
 //
@@ -287,3 +291,13 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+// added for pigpimples
+img {
+  float: right;
+  padding-left: 5px;
+}
+
+.entry {
+  overflow: hidden;
+}
