@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How much do you dislike Arvind Kejriwal"
+title: "How much do you dislike Arvind Kejriwal?"
 published: true
 categories: [Lifestyle]
 tags: [India, Politics, Kejriwal]
